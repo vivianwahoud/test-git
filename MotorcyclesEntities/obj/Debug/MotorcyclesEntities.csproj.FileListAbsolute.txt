@@ -1,0 +1,5 @@
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotorcyclesEntities\bin\Debug\MotorcyclesEntities.dll
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotorcyclesEntities\bin\Debug\MotorcyclesEntities.pdb
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotorcyclesEntities\obj\Debug\MotorcyclesEntities.dll
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotorcyclesEntities\obj\Debug\MotorcyclesEntities.pdb
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesEntities\obj\Debug\MotorcyclesEntities.csprojResolveAssemblyReference.cache

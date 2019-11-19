@@ -1,0 +1,14 @@
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\obj\Debug\MotorcyclesServices.csprojResolveAssemblyReference.cache
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\MotorcyclesServices.dll.config
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\MotorcyclesServices.dll
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\MotorcyclesServices.pdb
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\EntityFramework.dll
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\MotoDataBase.dll
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\MotorcyclesEntities.dll
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\MotoDataBase.pdb
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\MotorcyclesEntities.pdb
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\EntityFramework.xml
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\obj\Debug\MotorcyclesServices.dll
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotorcyclesServices\obj\Debug\MotorcyclesServices.pdb

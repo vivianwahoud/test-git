@@ -1,0 +1,17 @@
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\obj\Debug\MotoDataBase.csprojResolveAssemblyReference.cache
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\MotoDataBase.dll.config
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\MotoDataBase.dll
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\MotoDataBase.pdb
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\EntityFramework.dll
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\MotorcyclesEntities.dll
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\MotorcyclesEntities.pdb
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\EntityFramework.xml
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\obj\Debug\MotoDataBase.dll
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\obj\Debug\MotoDataBase.pdb
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\log4net.dll
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\Migrations.dll
+C:\Users\banias2\documents\visual studio 2015\Projects\MotorcyclesShop\MotoDataBase\bin\Debug\log4net.xml
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\obj\Debug\MotoDataBase.Migrations.initialzed.resources
+C:\Users\banias2\Documents\Visual Studio 2015\Projects\MotorcyclesShop\MotoDataBase\obj\Debug\MotoDataBase.csproj.GenerateResource.Cache
